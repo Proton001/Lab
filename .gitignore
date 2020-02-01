@@ -338,3 +338,9 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/external/AntTweakBar/examples
+/external
+/Lab.sln
+/enc_temp_folder/eaeadb3e29404277585c78f46465e5c6/main.cpp
+/Lab/Lab.vcxproj
+/Lab/Lab.vcxproj.filters
